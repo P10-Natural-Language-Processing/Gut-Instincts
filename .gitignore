@@ -1,5 +1,3 @@
-data/Annotations
-data/Articles
 data_preprocessed/
 data_inference_results/
 data_inference_results_evaluated_on_dev/
